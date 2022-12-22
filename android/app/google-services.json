@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "198270633355",
+    "project_id": "falafel-ge401-pro",
+    "storage_bucket": "falafel-ge401-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198270633355:android:a6184b3b5dae1fb2ecdb8e",
+        "android_client_info": {
+          "package_name": "com.example.falafel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198270633355-lh2kkh1jb3kge375rbssdg3ujhkv6jbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEoD_Tbz4L6KO7vHFADOJJrL-H0-pwR6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198270633355-lh2kkh1jb3kge375rbssdg3ujhkv6jbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198270633355-fab9o8vv34q1c2qm81s97umlrv3rv55f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.falafel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
